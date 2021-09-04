@@ -1,4 +1,4 @@
-Yandong的鞋服商城
+Yandong的权限管理系统
 
 客户端
 
